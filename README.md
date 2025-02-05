@@ -13,8 +13,8 @@
 ## Установка
 1. Склонируйте репозиторий
 ```bash 
-git clone repo.git
-cd repo
+git clone git@github.com:n1ghtmare-dev/wsr-new.git
+cd wsr-new
 ```
 2. Сделайте скрипт исполняемым
 ```bash
