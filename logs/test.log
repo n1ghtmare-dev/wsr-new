@@ -1,0 +1,185 @@
+[2025-02-05 03:45:53] Запуск тестирования
+[2025-02-05 03:45:53] Проверка доступа в интернет
+PING google.com (64.233.163.138) 56(84) bytes of data.
+64 bytes from lj-in-f138.1e100.net (64.233.163.138): icmp_seq=1 ttl=59 time=22.5 ms
+64 bytes from lj-in-f138.1e100.net (64.233.163.138): icmp_seq=2 ttl=59 time=30.8 ms
+64 bytes from lj-in-f138.1e100.net (64.233.163.138): icmp_seq=3 ttl=59 time=23.0 ms
+64 bytes from lj-in-f138.1e100.net (64.233.163.138): icmp_seq=4 ttl=59 time=32.1 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3011ms
+rtt min/avg/max/mdev = 22.490/27.100/32.131/4.379 ms
+[2025-02-05 03:45:56] Интернет доступен
+[2025-02-05 03:45:56] Проверка DNS
+[2025-02-05 03:45:56] DNS работает корректно
+[2025-02-05 03:45:56] Проверка свободного пространства
+[2025-02-05 03:45:56] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 03:45:56] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 03:45:56] Disk: tmpfs, Free storage: 2.0G   23M  1.9G   2% /dev/shm
+[2025-02-05 03:45:56] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 03:45:56] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 03:45:56] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 03:45:56] Disk: tmpfs, Free storage: 392M  120K  391M   1% /run/user/1000
+[2025-02-05 03:45:56] Проверка раздела: tmpfs
+[2025-02-05 03:45:56] Проблемы с разделом tmpfs
+[2025-02-05 03:45:56] Проверка раздела: /dev/mapper/ubuntu--vg-ubuntu--lv
+[2025-02-05 03:45:56] Раздел /dev/mapper/ubuntu--vg-ubuntu--lv исправен
+[2025-02-05 03:45:56] Проверка раздела: tmpfs
+[2025-02-05 03:45:56] Проблемы с разделом tmpfs
+[2025-02-05 03:45:56] Проверка раздела: tmpfs
+[2025-02-05 03:45:56] Проблемы с разделом tmpfs
+[2025-02-05 03:45:56] Проверка раздела: /dev/vda2
+[2025-02-05 03:45:56] Раздел /dev/vda2 исправен
+[2025-02-05 03:45:56] Проверка раздела: /dev/vda1
+[2025-02-05 03:45:56] Проблемы с разделом /dev/vda1
+[2025-02-05 03:45:56] Проверка раздела: tmpfs
+[2025-02-05 03:45:56] Проблемы с разделом tmpfs
+[2025-02-05 03:48:18] Запуск тестирования
+[2025-02-05 03:48:18] Проверка доступа в интернет
+PING google.com (64.233.161.101) 56(84) bytes of data.
+64 bytes from lh-in-f101.1e100.net (64.233.161.101): icmp_seq=1 ttl=59 time=23.2 ms
+64 bytes from lh-in-f101.1e100.net (64.233.161.101): icmp_seq=2 ttl=59 time=23.6 ms
+64 bytes from lh-in-f101.1e100.net (64.233.161.101): icmp_seq=3 ttl=59 time=23.8 ms
+64 bytes from lh-in-f101.1e100.net (64.233.161.101): icmp_seq=4 ttl=59 time=32.6 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+rtt min/avg/max/mdev = 23.243/25.828/32.577/3.902 ms
+[2025-02-05 03:48:21] Интернет доступен
+[2025-02-05 03:48:21] Проверка DNS
+[2025-02-05 03:48:21] DNS работает корректно
+[2025-02-05 03:48:21] Проверка свободного пространства
+[2025-02-05 03:48:21] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 03:48:21] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 03:48:21] Disk: tmpfs, Free storage: 2.0G   19M  1.9G   1% /dev/shm
+[2025-02-05 03:48:21] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 03:48:21] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 03:48:21] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 03:48:21] Disk: tmpfs, Free storage: 392M  124K  391M   1% /run/user/1000
+[2025-02-05 03:48:21] Проверка целостности главного диска
+[2025-02-05 03:48:21] Проблемы с разделом sda1
+[2025-02-05 03:52:43] Запуск тестирования
+[2025-02-05 03:52:43] Проверка доступа в интернет
+PING google.com (142.251.36.46) 56(84) bytes of data.
+64 bytes from ams17s12-in-f14.1e100.net (142.251.36.46): icmp_seq=1 ttl=59 time=48.9 ms
+64 bytes from ams17s12-in-f14.1e100.net (142.251.36.46): icmp_seq=2 ttl=59 time=56.9 ms
+64 bytes from ams17s12-in-f14.1e100.net (142.251.36.46): icmp_seq=3 ttl=59 time=57.2 ms
+64 bytes from ams17s12-in-f14.1e100.net (142.251.36.46): icmp_seq=4 ttl=59 time=57.3 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+rtt min/avg/max/mdev = 48.900/55.072/57.325/3.567 ms
+[2025-02-05 03:52:46] Интернет доступен
+[2025-02-05 03:52:46] Проверка DNS
+[2025-02-05 03:52:46] DNS работает корректно
+[2025-02-05 03:52:46] Проверка свободного пространства
+[2025-02-05 03:52:46] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 03:52:46] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 03:52:46] Disk: tmpfs, Free storage: 2.0G   20M  1.9G   1% /dev/shm
+[2025-02-05 03:52:46] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 03:52:46] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 03:52:46] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 03:52:46] Disk: tmpfs, Free storage: 392M  120K  391M   1% /run/user/1000
+[2025-02-05 03:52:46] Проверка целостности главного диска
+[2025-02-05 03:52:46] Проблемы с разделом sda1
+[2025-02-05 04:05:18] Запуск тестирования
+[2025-02-05 04:05:18] Проверка доступа в интернет
+PING google.com (209.85.233.138) 56(84) bytes of data.
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=1 ttl=59 time=22.4 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=2 ttl=59 time=22.7 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=3 ttl=59 time=22.7 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=4 ttl=59 time=22.6 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+rtt min/avg/max/mdev = 22.406/22.584/22.678/0.106 ms
+[2025-02-05 04:05:21] Интернет доступен
+[2025-02-05 04:05:21] Проверка DNS
+[2025-02-05 04:05:21] DNS работает корректно
+[2025-02-05 04:05:21] Проверка свободного пространства
+[2025-02-05 04:05:21] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 04:05:21] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 04:05:21] Disk: tmpfs, Free storage: 2.0G   18M  1.9G   1% /dev/shm
+[2025-02-05 04:05:21] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 04:05:21] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 04:05:21] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 04:05:21] Disk: tmpfs, Free storage: 392M  116K  391M   1% /run/user/1000
+[2025-02-05 04:05:21] Проверка целостности главного диска
+[2025-02-05 04:05:21] Проблемы с разделом sda1
+[2025-02-05 04:05:22] ℹ️ Загрузка процессора %Cpu(s):  2.2 us,  1.5 sy,  1.5 ni, 94.8 id,  0.0 wa,  0.0 hi,%
+[2025-02-05 04:05:58] Запуск тестирования
+[2025-02-05 04:05:58] Проверка доступа в интернет
+PING google.com (209.85.233.138) 56(84) bytes of data.
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=1 ttl=59 time=30.5 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=2 ttl=59 time=31.1 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=3 ttl=59 time=30.9 ms
+64 bytes from lr-in-f138.1e100.net (209.85.233.138): icmp_seq=4 ttl=59 time=23.0 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 22.968/28.873/31.129/3.415 ms
+[2025-02-05 04:06:01] Интернет доступен
+[2025-02-05 04:06:01] Проверка DNS
+[2025-02-05 04:06:01] DNS работает корректно
+[2025-02-05 04:06:01] Проверка свободного пространства
+[2025-02-05 04:06:01] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 04:06:01] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 04:06:01] Disk: tmpfs, Free storage: 2.0G   18M  1.9G   1% /dev/shm
+[2025-02-05 04:06:01] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 04:06:01] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 04:06:01] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 04:06:01] Disk: tmpfs, Free storage: 392M  116K  391M   1% /run/user/1000
+[2025-02-05 04:06:01] Проверка целостности главного диска
+[2025-02-05 04:06:01] Проблемы с разделом sda1
+[2025-02-05 04:06:01] ℹ️  Загрузка процессора %Cpu(s):  0.8 us,  1.6 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,%
+[2025-02-05 04:06:47] Запуск тестирования
+[2025-02-05 04:06:47] Проверка доступа в интернет
+PING google.com (142.251.186.139) 56(84) bytes of data.
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=1 ttl=59 time=151 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=2 ttl=59 time=151 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=3 ttl=59 time=154 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=4 ttl=59 time=159 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 150.856/153.650/158.913/3.213 ms
+[2025-02-05 04:06:50] Интернет доступен
+[2025-02-05 04:06:50] Проверка DNS
+[2025-02-05 04:06:50] DNS работает корректно
+[2025-02-05 04:06:50] Проверка свободного пространства
+[2025-02-05 04:06:50] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 04:06:50] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 04:06:50] Disk: tmpfs, Free storage: 2.0G   18M  1.9G   1% /dev/shm
+[2025-02-05 04:06:50] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 04:06:50] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 04:06:50] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 04:06:50] Disk: tmpfs, Free storage: 392M  116K  391M   1% /run/user/1000
+[2025-02-05 04:06:50] Проверка целостности главного диска
+[2025-02-05 04:06:50] Проблемы с разделом sda1
+[2025-02-05 04:06:50] ℹ️  Загрузка процессора %Cpu(s):  0.8 us,  3.1 sy,  0.0 ni, 96.2 id,  0.0 wa,  0.0 hi,%
+[2025-02-05 04:10:22] Запуск тестирования
+[2025-02-05 04:10:22] Проверка доступа в интернет
+PING google.com (142.251.186.139) 56(84) bytes of data.
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=1 ttl=59 time=159 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=2 ttl=59 time=159 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=3 ttl=59 time=157 ms
+64 bytes from lcdfwe-in-f139.1e100.net (142.251.186.139): icmp_seq=4 ttl=59 time=159 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 157.180/158.501/159.399/0.822 ms
+[2025-02-05 04:10:25] Интернет доступен
+[2025-02-05 04:10:25] Проверка DNS
+[2025-02-05 04:10:25] DNS работает корректно
+[2025-02-05 04:10:25] Проверка свободного пространства
+[2025-02-05 04:10:25] Disk: tmpfs, Free storage: 392M  1.9M  390M   1% /run
+[2025-02-05 04:10:25] Disk: /dev/mapper/ubuntu--vg-ubuntu--lv, Free storage: 30G   14G   15G  48% /
+[2025-02-05 04:10:25] Disk: tmpfs, Free storage: 2.0G   21M  1.9G   2% /dev/shm
+[2025-02-05 04:10:25] Disk: tmpfs, Free storage: 5.0M  4.0K  5.0M   1% /run/lock
+[2025-02-05 04:10:25] Disk: /dev/vda2, Free storage: 2.0G  249M  1.6G  14% /boot
+[2025-02-05 04:10:25] Disk: /dev/vda1, Free storage: 1.1G  6.4M  1.1G   1% /boot/efi
+[2025-02-05 04:10:25] Disk: tmpfs, Free storage: 392M  120K  391M   1% /run/user/1000
+[2025-02-05 04:10:25] Проверка целостности главного диска
+[2025-02-05 04:10:25] Проблемы с разделом sda1
+[2025-02-05 04:10:25] Проверка загрузки процессора
+[2025-02-05 04:10:25] ℹ️  Загрузка процессора %Cpu(s):  0.8 us,  1.6 sy,  0.8 ni, 96.0 id,  0.8 wa,  0.0 hi,%
